@@ -1,11 +1,19 @@
+// src/components/Tasks.js
 import React, { useState, useEffect } from 'react';
-import tasksData from '../data/tasks.json';
 
 const Tasks = () => {
   const [tasks, setTasks] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    setTasks(tasksData);
+    fetch('https://jsonplaceholder.typicode.com/todos?_limit=5')
+      .then(res => res.json())
+      .then(data => {
+        // JSONPlaceholder returns tasks with { title, completed }
+        setTasks(data);
+        setLoading(false);
+      })
+      .catch(() => setLoading(false));
   }, []);
 
   const toggleTask = (index) => {
@@ -14,12 +22,14 @@ const Tasks = () => {
     setTasks(updated);
   };
 
+  if (loading) return <div className="card"><h2>Tasks</h2><p>Loading tasks...</p></div>;
+
   return (
     <div className="card">
       <h2>Tasks</h2>
       <ul style={{ listStyle: 'none', paddingLeft: 0 }}>
         {tasks.map((task, i) => (
-          <li key={i} style={{ marginBottom: 10 }}>
+          <li key={task.id} style={{ marginBottom: 10 }}>
             <label>
               <input
                 type="checkbox"
