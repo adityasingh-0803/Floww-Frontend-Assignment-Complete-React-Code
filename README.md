@@ -13,7 +13,7 @@ It is a modern, responsive React.js web app that includes:
 
 ## 🚀 Live Demo
 
-🔗 **Live Site**: [(https://flowwfrontend.netlify.app/)]  
+🔗 **Live Site**: [https://flowwfrontend.netlify.app/](https://flowwfrontend.netlify.app/)  
 
 
 ---
@@ -51,7 +51,7 @@ It is a modern, responsive React.js web app that includes:
 Wireframes designed for all three main screens:
 
 ### 📌 Dashboard Wireframe
-![Dashboard Wireframe]![image](https://github.com/user-attachments/assets/8d1b2454-63cd-4fd0-9417-712da28fe878)
+![Dashboard Wireframe][image](https://github.com/user-attachments/assets/8d1b2454-63cd-4fd0-9417-712da28fe878)
 
 
 ---
