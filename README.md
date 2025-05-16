@@ -51,18 +51,17 @@ It is a modern, responsive React.js web app that includes:
 Wireframes designed for all three main screens:
 
 ### 📌 Dashboard Wireframe
-![Dashboard Wireframe](![image](https://github.com/user-attachments/assets/8d1b2454-63cd-4fd0-9417-712da28fe878))
-
+![Dashboard Wireframe](https://github.com/user-attachments/assets/8d1b2454-63cd-4fd0-9417-712da28fe878)
 
 ---
 
 ### 📌 Login Page Wireframe
-![Login Wireframe](![image](https://github.com/user-attachments/assets/572482c9-4abe-4651-b56f-03ecb469244e))
+![Login Wireframe](https://github.com/user-attachments/assets/572482c9-4abe-4651-b56f-03ecb469244e)
 
 ---
 
 ### 📌 Sign-Up Page Wireframe
-![Sign-Up Wireframe](![image](https://github.com/user-attachments/assets/01a65c6b-d6e2-4306-bf09-14b053fd75f8))
+![Sign-Up Wireframe](https://github.com/user-attachments/assets/01a65c6b-d6e2-4306-bf09-14b053fd75f8)
 
 ---
 
