@@ -51,7 +51,8 @@ It is a modern, responsive React.js web app that includes:
 Wireframes designed for all three main screens:
 
 ### 📌 Dashboard Wireframe
-![Dashboard Wireframe](./wireframes/dashboard-wireframe.png)
+![Dashboard Wireframe]![image](https://github.com/user-attachments/assets/8d1b2454-63cd-4fd0-9417-712da28fe878)
+
 
 ---
 
