@@ -13,10 +13,8 @@ It is a modern, responsive React.js web app that includes:
 
 ## 🚀 Live Demo
 
-🔗 **Live Site**: [https://your-site-name.netlify.app]((https://flowwfrontend.netlify.app/))  
-📂 **GitHub Repo**: [https://github.com/your-username/floww-dashboard](https://github.com/your-username/floww-dashboard)
+🔗 **Live Site**: [(https://flowwfrontend.netlify.app/)]  
 
-> Replace with your actual links above.
 
 ---
 
