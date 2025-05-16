@@ -75,6 +75,7 @@ Wireframes designed for all three main screens:
 ---
 
 ## 📁 Folder Structure
+ ```bash
 floww-dashboard/
 ├── public/
 ├── src/
@@ -89,7 +90,7 @@ floww-dashboard/
 ├── package.json
 └── README.md
 
-
+```
 ---
 
 ## 📦 Installation (Local Setup)
